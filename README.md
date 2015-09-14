@@ -1,2 +1,2 @@
 # CompHound.github.io
-CompHound project landing page
+CompHound project landing page.
