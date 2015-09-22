@@ -2,6 +2,34 @@
 
 CompHound project landing page.
 
+CompHound is a cloud-based universal component and asset usage analysis, report and visualisation.
+
+It currently consists of two parts:
+
+- [CompHoundWeb](https://github.com/CompHound/CompHoundWeb),
+a Node.js web server, mongo database and
+[Autodesk View and Data API](https://developer.autodesk.com) viewer.
+- [CompHoundRvt](https://github.com/CompHound/CompHoundRvt),
+a Revit add-in to populate the CompHound web database with ±BIM family instances.
+
+This project is based on and derived from the node.js mongodb web server for the FireRating in the Cloud sample, consisting of the
+[FireRatingCloud](https://github.com/jeremytammik/FireRatingCloud) C# .NET REST API client Revit add-in and the
+[fireratingdb](https://github.com/jeremytammik/firerating) Node.js mongoDB web server.
+
+In addition to that, this project also sports a user interface, including
+[Autodesk View and Data API](https://developer.autodesk.com) 2D and 3D model analysis, viewing and navigation functionality.
+
+For more information, please refer to
+[The 3D Web Coder](http://the3dwebcoder.typepad.com),
+[The Building Coder](http://thebuildingcoder.typepad.com) and
+the detailed articles describing the entire project implementation and evolution:
+
+- [Project definition and christening](http://the3dwebcoder.typepad.com/blog/2015/09/comphound-jsfiddle-and-my-first-react-component.html).
+- [First implementation] based on
+[fireratingdb](https://github.com/jeremytammik/firerating) and
+[FireRatingCloud](https://github.com/jeremytammik/FireRatingCloud).
+- [Steps towards a database table view](http://the3dwebcoder.typepad.com/blog/2015/09/towards-a-comphound-mongo-database-table-view.html).
+
 
 ## Author
 
