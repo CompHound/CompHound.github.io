@@ -25,7 +25,7 @@ For more information, please refer to
 the detailed articles describing the entire project implementation and evolution:
 
 - [Project definition and christening](http://the3dwebcoder.typepad.com/blog/2015/09/comphound-jsfiddle-and-my-first-react-component.html).
-- [First implementation] based on
+- [First implementation](http://the3dwebcoder.typepad.com/blog/2015/09/comphound-restsharp-mongoose-put-and-post.html#2) based on
 [fireratingdb](https://github.com/jeremytammik/firerating) and
 [FireRatingCloud](https://github.com/jeremytammik/FireRatingCloud).
 - [Steps towards a database table view](http://the3dwebcoder.typepad.com/blog/2015/09/towards-a-comphound-mongo-database-table-view.html).
