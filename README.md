@@ -2,7 +2,9 @@
 
 CompHound project landing page.
 
-CompHound is a cloud-based universal component and asset usage analysis, report and visualisation.
+CompHound is a cloud-based universal component and asset usage analysis, report and visualisation for talks on connection the desktop with the clound at
+[RTC Europe](http://www.rtcevents.com/rtc2015eu) in Budapest end of October and
+[Autodesk University](http://au.autodesk.com) in Las Vegas in December.
 
 It currently consists of two parts:
 
