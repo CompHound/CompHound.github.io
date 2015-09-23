@@ -14,7 +14,7 @@ a Node.js web server, mongo database and
 - [CompHoundRvt](https://github.com/CompHound/CompHoundRvt),
 a Revit add-in to populate the CompHound web database with ±BIM family instances.
 
-This project is based on and derived from the node.js mongodb web server for the FireRating in the Cloud sample, consisting of the
+This project is based on and derived from the node.js mongodb web server for the **FireRating in the Cloud** sample, consisting of the
 [FireRatingCloud](https://github.com/jeremytammik/FireRatingCloud) C# .NET REST API client Revit add-in and the
 [fireratingdb](https://github.com/jeremytammik/firerating) Node.js mongoDB web server.
 
