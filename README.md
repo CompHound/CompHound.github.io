@@ -2,7 +2,7 @@
 
 CompHound project landing page.
 
-CompHound is a cloud-based universal component and asset usage analysis, report and visualisation project providing sample code for two presentations on connecting the desktop with the cloud at
+CompHound is a cloud-based universal component and asset usage analysis, report, bill of material and visualisation project providing sample code for two presentations on connecting the desktop with the cloud at
 [RTC Europe](http://www.rtcevents.com/rtc2015eu) in Budapest end of October and
 [Autodesk University](http://au.autodesk.com) in Las Vegas in December.
 
@@ -18,7 +18,7 @@ This project is based on and derived from the node.js mongodb web server for the
 [FireRatingCloud](https://github.com/jeremytammik/FireRatingCloud) C# .NET REST API client Revit add-in and the
 [fireratingdb](https://github.com/jeremytammik/firerating) Node.js mongoDB web server.
 
-In addition to that, this project also sports a user interface, including
+In addition to that, this project also sports a user interface, including report, bill of material,
 [Autodesk View and Data API](https://developer.autodesk.com) 2D and 3D model analysis, viewing and navigation functionality.
 
 For more information, please refer to
@@ -31,6 +31,8 @@ the detailed articles describing the entire project implementation and evolution
 [fireratingdb](https://github.com/jeremytammik/firerating) and
 [FireRatingCloud](https://github.com/jeremytammik/FireRatingCloud).
 - [Steps towards a database table view](http://the3dwebcoder.typepad.com/blog/2015/09/towards-a-comphound-mongo-database-table-view.html).
+- [The CompHound Mongoose DataTable](http://the3dwebcoder.typepad.com/blog/2015/09/the-comphound-mongoose-datatable.html)
+- [CompHound Heroku Deployment](http://the3dwebcoder.typepad.com/blog/2015/09/comphound-heroku-deployment-and-urban-farming.html)
 
 
 ## Author
