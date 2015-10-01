@@ -1,4 +1,4 @@
-# CompHound &ndash; Componend Tracker
+# CompHound &ndash; Component Tracker
 
 This is the CompHound project main landing page.
 
