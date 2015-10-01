@@ -73,11 +73,11 @@ by [The 3D Web Coder](http://the3dwebcoder.typepad.com)
 and [The Building Coder](http://thebuildingcoder.typepad.com)
 describe the entire project implementation and evolution:
 
-- [Project definition and christening](http://the3dwebcoder.typepad.com/blog/2015/09/comphound-jsfiddle-and-my-first-react-component.html).
+- [Project definition and christening](http://the3dwebcoder.typepad.com/blog/2015/09/comphound-jsfiddle-and-my-first-react-component.html)
 - [First implementation](http://the3dwebcoder.typepad.com/blog/2015/09/comphound-restsharp-mongoose-put-and-post.html#2) based on
 [fireratingdb](https://github.com/jeremytammik/firerating) and
-[FireRatingCloud](https://github.com/jeremytammik/FireRatingCloud).
-- [Steps towards a database table view](http://the3dwebcoder.typepad.com/blog/2015/09/towards-a-comphound-mongo-database-table-view.html).
+[FireRatingCloud](https://github.com/jeremytammik/FireRatingCloud)
+- [Steps towards a database table view](http://the3dwebcoder.typepad.com/blog/2015/09/towards-a-comphound-mongo-database-table-view.html)
 - [The CompHound Mongoose DataTable](http://the3dwebcoder.typepad.com/blog/2015/09/the-comphound-mongoose-datatable.html)
 - [CompHound Heroku Deployment](http://the3dwebcoder.typepad.com/blog/2015/09/comphound-heroku-deployment-and-urban-farming.html)
 - [Adding a React.js widget](http://the3dwebcoder.typepad.com/blog/2015/09/tutorials-hackergarten-and-comphound-reactjs-widget.html#3)
