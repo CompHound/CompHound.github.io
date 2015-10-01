@@ -1,6 +1,6 @@
-# CompHound.github.io
+# CompHound &ndash; Componend Tracker
 
-CompHound project landing page.
+This is the CompHound project main landing page.
 
 CompHound is a cloud-based universal component and asset usage analysis, reporting, bill of materials, visualisation and navigation project providing sample code for two presentations on connecting the desktop with the cloud
 at [RTC Europe](http://www.rtcevents.com/rtc2015eu) in Budapest end of October
