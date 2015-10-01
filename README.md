@@ -80,6 +80,9 @@ describe the entire project implementation and evolution:
 - [Steps towards a database table view](http://the3dwebcoder.typepad.com/blog/2015/09/towards-a-comphound-mongo-database-table-view.html).
 - [The CompHound Mongoose DataTable](http://the3dwebcoder.typepad.com/blog/2015/09/the-comphound-mongoose-datatable.html)
 - [CompHound Heroku Deployment](http://the3dwebcoder.typepad.com/blog/2015/09/comphound-heroku-deployment-and-urban-farming.html)
+- [Adding a React.js widget](http://the3dwebcoder.typepad.com/blog/2015/09/tutorials-hackergarten-and-comphound-reactjs-widget.html#3)
+- [Rebuilding the database, enhanced `upsert` and C# REST client](http://the3dwebcoder.typepad.com/blog/2015/09/lunar-eclipse-cors-workaround-comphound-update.html#4)
+- [Implementing a component instance view using jQuery](http://the3dwebcoder.typepad.com/blog/2015/09/comphound-instance-view.html)
 
 
 ## Author
